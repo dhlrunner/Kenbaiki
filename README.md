@@ -1,5 +1,5 @@
 # Kenbaiki
- a simple ticket vending-mashine for 2019 tokai univ takanawa school festival
+ a simple ticket vending-machine for 2019 tokai univ takanawa school festival
 
 # Requiered hardware
  BVCM-MIF-02 (https://www.picosystems.net/Joomla/index.php/13-japanese/products-ja/61-bvcm-mif-02-ja)
