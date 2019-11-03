@@ -1,0 +1,37 @@
+{
+    "plane":{
+        "id":0,
+        "name":"ポップコーン\nプレーン",
+        "price":100
+    },
+    "salt":{
+        "id":1,
+        "name":"ポップコーン\nしお味",
+        "price":150
+    },
+    "saltpepper":{
+        "id":2,
+        "name":"ポップコーン\nしおコショー味",
+        "price":150
+    },
+    "norisalt":{
+        "id":3,
+        "name":"ポップコーン\nのりしお味",
+        "price":150
+    },
+    "caramel":{
+        "id":4,
+        "name":"ポップコーン\nキャラメル味",
+        "price":150
+    },
+    "curry":{
+        "id":5,
+        "name":"ポップコーン\nカレー味",
+        "price":150
+    },
+    "consomme":{
+        "id":6,
+        "name":"ポップコーン\nコンソメ味",
+        "price":150
+    }
+}
